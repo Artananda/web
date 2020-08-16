@@ -460,7 +460,7 @@ Content {
 			&lt;/figure&gt;
 			&lt;div class=&quot;item-box-desc&quot;&gt;
 				&lt;h4&gt;Jonas Aquarius&lt;/h4&gt;
-				&lt;small class=&quot;styleColor&quot;&gt;Berlin (+49) (0)176 412 69 331&lt;/small&gt;
+				&lt;small class=&quot;styleColor&quot;&gt;Berlin (+49) (0)1630 372 598&lt;/small&gt;
 				&lt;p&gt;&lt;a href=&quot;mailto:ycey79@outlook.de&quot;&gt;Jonas&lt;/a&gt; kommt aus dem hebräischen von Jona (die Taube) und &lt;strong&gt;Aquarius&lt;/strong&gt; bedeutet Wassermann.&lt;/small&gt;
 				&lt;div class=&quot;row socials&quot;&gt;
 					&lt;!--a href=&quot;https://www.facebook.com/artanidos&quot; class=&quot;social fa fa-facebook&quot;&gt;&lt;/a--&gt;
@@ -494,8 +494,8 @@ Content {
 			&lt;/figure&gt;
 			&lt;div class=&quot;item-box-desc&quot;&gt;
 				&lt;h4&gt;Art Anidos Ananda&lt;/h4&gt;
-				&lt;small class=&quot;styleColor&quot;&gt;Bern (+49) (0)1575 780 83 77&lt;/small&gt;
-				&lt;p&gt;&lt;a href=&quot;mailto:artanidos@gmail.com&quot;&gt;Art&lt;/a&gt; ist zur Zeit auf Weltreise und derzeit in Bern (Schweiz).&lt;/p&gt;
+				&lt;small class=&quot;styleColor&quot;&gt;Berlin, Bern, Monchique (+351) 969 31 28 08&lt;/small&gt;
+				&lt;p&gt;&lt;a href=&quot;mailto:artanidos@gmail.com&quot;&gt;Art&lt;/a&gt; ist ab 29.08.2020 wieder in Berlin und derzeit in Bern (Schweiz).&lt;/p&gt;
 				&lt;div class=&quot;row socials&quot;&gt;
 					&lt;a href=&quot;https://www.facebook.com/artanidos&quot; class=&quot;social fa fa-facebook&quot;&gt;&lt;/a&gt;
 					&lt;!-- a href=&quot;#&quot; class=&quot;social fa fa-twitter&quot;&gt;&lt;/a&gt;
@@ -549,34 +549,6 @@ Content {
 	&lt;li&gt;Realschule (Egenbüttel)&lt;/li&gt;	
 &lt;/ul&gt;
 &lt;/div&gt;"
-                }
-            }
-        }
-    }
-
-    Section {
-
-        Row {
-
-            Column {
-                span: 4
-
-                Text {
-                    text: "&lt;iframe scrolling=&quot;no&quot; src=&quot;https://wemakeit.com/widgets/projects/independence?type=regular&quot; width=&quot;364&quot; height=&quot;517&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;"
-                    adminlabel: "KrautFunding"
-                }
-            }
-
-            Column {
-                span: 8
-
-                Text {
-                    text: "&lt;h3&gt;&lt;strong&gt;Unabhängigkeit&lt;/strong&gt;&lt;/h3&gt;
-&lt;p class=&quot;lead&quot;&gt;Art hat grad eine CrowdFunding Kampagne gestartet.&lt;/p&gt;
-&lt;p&gt;
-	Schaut doch bitte mal die Kampagne an und gebt Feedback, Spendet oder verbreitet die Idee um Art zu helfen,
-	seinen Traum zu manifestieren.
-&lt;/p&gt;"
                 }
             }
         }
